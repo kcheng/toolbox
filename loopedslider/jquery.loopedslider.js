@@ -9,7 +9,7 @@
  *
  *	Built for jQuery library
  *	http://jquery.com
- *  Modified July 10, 2010
+ *  Modified by kcheng November 10, 2010
  */
 
 /*
